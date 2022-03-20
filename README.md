@@ -1,4 +1,4 @@
-Credite anasty17
+Credit anasty17
 
 # Features:
 
