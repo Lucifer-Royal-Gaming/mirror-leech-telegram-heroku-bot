@@ -1,4 +1,4 @@
-Credit anasty17
+Credit [anasty17](https://github.com/anasty17)
 
 # Features:
 
@@ -60,7 +60,7 @@ Credit anasty17
 
 - Tutorial Video from A to Z:
   - Thanks to [Wiszky](https://github.com/vishnoe115)
-<p><a href="https://www.youtube.com/watch?v=gFQWJ4ftt48"> <img src="https://img.shields.io/badge/See%20Video-black?style=for-the-badge&logo=YouTube" width="160""/></a></p>
+<p><a href="https://youtu.be/z4YDrqflEMU"> <img src="https://img.shields.io/badge/See%20Video-black?style=for-the-badge&logo=YouTube" width="160""/></a></p>
 
 ### 1. Installing requirements
 
