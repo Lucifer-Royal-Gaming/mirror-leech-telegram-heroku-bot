@@ -1,8 +1,9 @@
 This is a Telegram Bot written in Python for mirroring files on the Internet to your Google Drive or Telegram. Based on [python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot)
 
 # Features:
+Credit anasty
 
-## By [Anas](https://github.com/anasty17)
+## By [Lucifer Royal Gaming](https://github.com/Lucifer-Royal-Gaming/mirror-leech-telegram-heroku-bot)
 - qBittorrent
 - Select files from Torrent before downloading using qbittorrent
 - Leech (splitting, thumbnail for each user, setting as document or as media for each user)
@@ -59,8 +60,8 @@ This is a Telegram Bot written in Python for mirroring files on the Internet to 
 ## Prerequisites
 
 - Tutorial Video from A to Z:
-  - Thanks to [Wiszky](https://github.com/vishnoe115)
-<p><a href="https://www.youtube.com/watch?v=gFQWJ4ftt48"> <img src="https://img.shields.io/badge/See%20Video-black?style=for-the-badge&logo=YouTube" width="160""/></a></p>
+   [Lucifer Royal Gaming](https://github.com/Lucifer-Royal-Gaming/mirror-leech-telegram-heroku-bot)
+<p><a href="https://youtu.be/z4YDrqflEMU"> <img src="https://img.shields.io/badge/See%20Video-black?style=for-the-badge&logo=YouTube" width="160""/></a></p>
 
 ### 1. Installing requirements
 
